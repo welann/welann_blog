@@ -26,7 +26,7 @@ footer:
     - name: GitHub
       link: http://github.com/welann
     - name: RSS
-      link: /feed.xml
+      link: /welann_blog/feed.xml
 
 # Build settings
 markdown: kramdown
