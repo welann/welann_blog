@@ -1,13 +1,13 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Welann你在干什么
+title: Welann~ 你在干什么
 description: >- # this means to ignore newlines until "baseurl:"
   welann是一个没有时间感的人
 baseurl: "/welann_blog" # the subpath of the site
 url: "https://welann.github.io/" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
-google_analytics: "GA4 (312591816) "
+google_analytics: "G-D95TEL9K1R"
 
 header:
   pages:
